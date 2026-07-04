@@ -1,0 +1,14 @@
+# Competitive Programming Helper
+.cph/
+
+# Windows executables
+*.exe
+
+# VS Code temporary files (optional)
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
