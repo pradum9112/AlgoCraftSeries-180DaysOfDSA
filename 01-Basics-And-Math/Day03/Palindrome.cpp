@@ -47,7 +47,6 @@ int main(){
     int n; 
     cin>>n;
     Solution obj;
-    obj.isPalindrome(n);
     cout<<boolalpha <<obj.isPalindrome(n);
 
     return 0;
