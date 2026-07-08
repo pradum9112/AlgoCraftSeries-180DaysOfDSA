@@ -27,15 +27,14 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 
 ## 📈 Daily Progress Tracker
 
-| Day | Topic | Problem Link / Name | Difficulty | Solution Link |
-| :---: | :--- | :--- | :---: | :---: |
-| **Day 1** | Basics & Math | [Pattern 22 (Number Crown Matrix)](./01-Basics-And-Math/Day01-Patterns/) | 🟡 Medium | [C++ Code](./01-Basics-And-Math/Day01-Patterns/pattern22.cpp) |
-| **Day 2** | Basics & Math | *Coming Soon* | ⏳ | ⏳ |
-| **Day 3** | Basics & Math | *Coming Soon* | ⏳ | ⏳ |
-
-*Note: The tracker grid updates daily upon pushing verified test-case submissions.*
-
----
+| Day | Topic | Problems Solved | Difficulty | Notes | Code |
+| :--: | :---- | :-------------- | :--------: | :---: | :--: |
+| **Day 01** | Basics & Math | Pattern 22 (Number Crown Matrix) | 🟡 Medium | [📘 README](./01-Basics-And-Math/Day01/README.md) | [💻 Day01](./01-Basics-And-Math/Day01/) |
+| **Day 02** | Basics & Math | Count Digits, Reverse Number | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day02/README.md) | [💻 Day02](./01-Basics-And-Math/Day02/) |
+| **Day 03** | Basics & Math | Palindrome Number | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day03/README.md) | [💻 Day03](./01-Basics-And-Math/Day03/) |
+| **Day 04** | Basics & Math | Greatest Common Divisor (GCD) | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day04/README.md) | [💻 Day04](./01-Basics-And-Math/Day04/) |
+| **Day 05** | Basics & Math | Armstrong Number | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day05/README.md) | [💻 Day05](./01-Basics-And-Math/Day05/) |
+| **Day 06** | Basics & Math | Square Root, Print All Divisors | 🟡 Medium | [📘 README](./01-Basics-And-Math/Day06/README.md) | [💻 Day06](./01-Basics-And-Math/Day06/) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
@@ -45,15 +44,40 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 
 ---
 
-## 📂 Repository Layout Layout
+## 📂 Repository Layout 
 ```text
 AlgoCraftSeries-180DaysOfDSA/
-├── 01-Basics-And-Math/      # Initial phase logic building
-│   └── Day01-Patterns/      # Organized on a day-to-day timeline
-│       ├── pattern22.cpp    # Clean and optimized source code
-│       └── README.md        # Individual problem explanation & approach
-├── .gitignore               # Keeps the repository clean
-└── README.md                # Central command hub (This file)
+│
+├── 01-Basics-And-Math/
+│   │
+│   ├── Day01/
+│   │   ├── pattern22.cpp
+│   │   └── README.md
+│   │
+│   ├── Day02/
+│   │   ├── countAllDigitsOfNumber.cpp
+│   │   ├── reverseNumber.cpp
+│   │   └── README.md
+│   │
+│   ├── Day03/
+│   │   ├── Palindrome.cpp
+│   │   └── README.md
+│   │
+│   ├── Day04/
+│   │   ├── GCD.cpp
+│   │   └── README.md
+│   │
+│   ├── Day05/
+│   │   ├── isArmstrong.cpp
+│   │   └── README.md
+│   │
+│   └── Day06/
+│       ├── SquareRoot.cpp
+│       ├── Divisors.cpp
+│       └── README.md
+│
+├── .gitignore
+└── README.md
 ```
 
 ---
