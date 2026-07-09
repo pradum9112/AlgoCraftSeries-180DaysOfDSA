@@ -27,14 +27,15 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 
 ## 📈 Daily Progress Tracker
 
-| Day | Topic | Problems Solved | Difficulty | Notes | Code |
-| :--: | :---- | :-------------- | :--------: | :---: | :--: |
-| **[Day 01](./01-Basics-And-Math/Day01/README.md)** | Basics & Math | **[Pattern 22 (Number Crown Matrix)](./01-Basics-And-Math/Day01/pattern22.cpp)** | 🟡 Medium | [📘 README](./01-Basics-And-Math/Day01/README.md) | [💻 Day01](./01-Basics-And-Math/Day01/) |
-| **[Day 02](./01-Basics-And-Math/Day02/README.md)** | Basics & Math | **[Count Digits](./01-Basics-And-Math/Day02/countAllDigitsOfNumber.cpp)** • **[Reverse Number](./01-Basics-And-Math/Day02/reverseNumber.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day02/README.md) | [💻 Day02](./01-Basics-And-Math/Day02/) |
-| **[Day 03](./01-Basics-And-Math/Day03/README.md)** | Basics & Math | **[Palindrome Number](./01-Basics-And-Math/Day03/Palindrome.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day03/README.md) | [💻 Day03](./01-Basics-And-Math/Day03/) |
-| **[Day 04](./01-Basics-And-Math/Day04/README.md)** | Basics & Math | **[Greatest Common Divisor (GCD)](./01-Basics-And-Math/Day04/GCD.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day04/README.md) | [💻 Day04](./01-Basics-And-Math/Day04/) |
-| **[Day 05](./01-Basics-And-Math/Day05/README.md)** | Basics & Math | **[Armstrong Number](./01-Basics-And-Math/Day05/isArmstrong.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day05/README.md) | [💻 Day05](./01-Basics-And-Math/Day05/) |
-| **[Day 06](./01-Basics-And-Math/Day06/README.md)** | Basics & Math | **[Square Root](./01-Basics-And-Math/Day06/SquareRoot.cpp)** • **[Print All Divisors](./01-Basics-And-Math/Day06/Divisors.cpp)** | 🟡 Medium | [📘 README](./01-Basics-And-Math/Day06/README.md) | [💻 Day06](./01-Basics-And-Math/Day06/) |
+| Day | Topic | Problems Solved | Difficulty | Notes |
+| :--: | :---- | :-------------- | :--------: | :---: |
+| **[Day 01](./01-Basics-And-Math/Day01)** | Basics & Math | **[Pattern 22 (Number Crown Matrix)](./01-Basics-And-Math/Day01/pattern22.cpp)** | 🟡 Medium | [📘 README](./01-Basics-And-Math/Day01/README.md) |
+| **[Day 02](./01-Basics-And-Math/Day02)** | Basics & Math | **[Count Digits](./01-Basics-And-Math/Day02/countAllDigitsOfNumber.cpp)** • **[Reverse Number](./01-Basics-And-Math/Day02/reverseNumber.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day02/README.md) |
+| **[Day 03](./01-Basics-And-Math/Day03)** | Basics & Math | **[Palindrome Number](./01-Basics-And-Math/Day03/Palindrome.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day03/README.md) |
+| **[Day 04](./01-Basics-And-Math/Day04)** | Basics & Math | **[Greatest Common Divisor (GCD)](./01-Basics-And-Math/Day04/GCD.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day04/README.md) |
+| **[Day 05](./01-Basics-And-Math/Day05)** | Basics & Math | **[Armstrong Number](./01-Basics-And-Math/Day05/isArmstrong.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day05/README.md) |
+| **[Day 06](./01-Basics-And-Math/Day06)** | Basics & Math | **[Square Root](./01-Basics-And-Math/Day06/SquareRoot.cpp)** • **[Print All Divisors](./01-Basics-And-Math/Day06/Divisors.cpp)** | 🟡 Medium | [📘 README](./01-Basics-And-Math/Day06/README.md) |
+| **[Day 07](./01-Basics-And-Math/Day07)** | Basics & Math | **[Check Prime Number](./01-Basics-And-Math/Day07/isPrime.cpp)** | 🟢 Easy | [📘 README](./01-Basics-And-Math/Day07/README.md) || 
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
