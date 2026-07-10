@@ -36,6 +36,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day 05](./01-Basics-And-Math/Day05)** | Basics & Math | **[Armstrong Number](./01-Basics-And-Math/Day05/isArmstrong.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./01-Basics-And-Math/Day05/README.md) |
 | **[Day 06](./01-Basics-And-Math/Day06)** | Basics & Math | **[Square Root](./01-Basics-And-Math/Day06/SquareRoot.cpp)** • **[Print All Divisors](./01-Basics-And-Math/Day06/Divisors.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 README](./01-Basics-And-Math/Day06/README.md) |
 | **[Day 07](./01-Basics-And-Math/Day07)** | Basics & Math | **[Prime Number](./01-Basics-And-Math/Day07/isPrime.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./01-Basics-And-Math/Day07/README.md) |
+| **[Day 08](./02-Recursion/Day08)** | Recursion | **[Print 1toN ](./02-Recursion/Day08/print1toN.cpp)** • **[Print Nto1](./02-Recursion/Day08/printNto1.cpp)** • **[Factorial](./02-Recursion/Day08/Factorial.cpp)**| ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./02-Recursion/Day08/readme.md) |
 
 
 ## 🛠️ Tech Stack & Tools Used
