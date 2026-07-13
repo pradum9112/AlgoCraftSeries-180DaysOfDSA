@@ -39,6 +39,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[08](./02-Recursion/Day08)** | Recursion | **[Print 1toN ](./02-Recursion/Day08/print1toN.cpp)** • **[Print Nto1](./02-Recursion/Day08/printNto1.cpp)** • **[Factorial](./02-Recursion/Day08/Factorial.cpp)**| ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./02-Recursion/Day08/readme.md) |
 | **[09](./02-Recursion/Day09)** | Recursion | **[Reverse a Array using recursion](./02-Recursion/Day09/reverseArray.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Recursion/Day09/readme.md) |
 | **[10](./02-Recursion/Day10)** | Recursion | **[Palindrome using recursion](./02-Recursion/Day10/isPalindrome.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Recursion/Day10/readme.md) |
+| **[11](./02-Recursion/Day10)** | Recursion | **[Fibonacci Number using recursion](./02-Recursion/Day11/Fibonacci.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Recursion/Day11/readme.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
