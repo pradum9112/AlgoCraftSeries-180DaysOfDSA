@@ -20,6 +20,7 @@ class Solution {
 };
 
 
+
 int main(){
     int n;
     cin >> n;

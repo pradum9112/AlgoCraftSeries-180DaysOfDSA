@@ -20,7 +20,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **Phase 3** | Recursion, Backtracking & String Manipulation | ⏳ Upcoming |
 | **Phase 4** | Linked Lists, Stacks, Queues & Hashing | ⏳ Upcoming |
 | **Phase 5** | Binary Trees, BSTs & Heaps / Priority Queues | ⏳ Upcoming |
-| **Phase 6** | Greedy Algorithms, Graphs & Advanced Recursion | ⏳ Upcoming |
+| **Phase 6** | Greedy Algorithms, Graphs & Advanced Basic Recursion| ⏳ Upcoming |
 | **Phase 7** | Dynamic Programming (DP) & Segment Trees / Tries | ⏳ Upcoming |
 
 ---
@@ -36,11 +36,13 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[05](./01-Basics-And-Math/Day05)** | Basics & Math | **[Armstrong Number](./01-Basics-And-Math/Day05/isArmstrong.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./01-Basics-And-Math/Day05/README.md) |
 | **[06](./01-Basics-And-Math/Day06)** | Basics & Math | **[Square Root](./01-Basics-And-Math/Day06/SquareRoot.cpp)** • **[Print All Divisors](./01-Basics-And-Math/Day06/Divisors.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 README](./01-Basics-And-Math/Day06/README.md) |
 | **[07](./01-Basics-And-Math/Day07)** | Basics & Math | **[Prime Number](./01-Basics-And-Math/Day07/isPrime.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./01-Basics-And-Math/Day07/README.md) |
-| **[08](./02-Recursion/Day08)** | Recursion | **[Print 1toN ](./02-Recursion/Day08/print1toN.cpp)** • **[Print Nto1](./02-Recursion/Day08/printNto1.cpp)** • **[Factorial](./02-Recursion/Day08/Factorial.cpp)**| ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./02-Recursion/Day08/readme.md) |
-| **[09](./02-Recursion/Day09)** | Recursion | **[Reverse a Array using recursion](./02-Recursion/Day09/reverseArray.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Recursion/Day09/readme.md) |
-| **[10](./02-Recursion/Day10)** | Recursion | **[Palindrome using recursion](./02-Recursion/Day10/isPalindrome.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Recursion/Day10/readme.md) |
-| **[11](./02-Recursion/Day10)** | Recursion | **[Fibonacci Number using recursion](./02-Recursion/Day11/Fibonacci.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Recursion/Day11/readme.md) |
-
+| **[08](./02-Basic-Recursion/Day08)** | Basic Recursion| **[Print 1toN ](./02-Basic-Recursion/Day08/print1toN.cpp)** • **[Print Nto1](./02-Basic-Recursion/Day08/printNto1.cpp)** • **[Factorial](./02-Basic-Recursion/Day08/Factorial.cpp)**| ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 README](./02-Basic-Recursion/Day08/readme.md) |
+| **[09](./02-Basic-Recursion/Day09)** | Basic Recursion| **[Reverse a Array using recursion](./02-Basic-Recursion/Day09/reverseArray.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Basic-Recursion/Day09/readme.md) |
+| **[10](./02-Basic-Recursion/Day10)** | Basic Recursion| **[Palindrome using recursion](./02-Basic-Recursion/Day10/isPalindrome.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Basic-Recursion/Day10/readme.md) |
+| **[11](./02-Basic-Recursion/Day11)** | Basic Recursion| **[Fibonacci Number using recursion](./02-Basic-Recursion/Day11/Fibonacci.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./02-Basic-Recursion/Day11/readme.md) |
+| **[12](./03-Basic-Hashing/Day12)** | Basic Hashing| **[Frequency Counting BFA ](./03-Basic-Hashing/Day12/FrequencyCountingBFA.cpp)**|![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square)| [📘 README](./03-Basic-Hashing/Day13/readme.md) |
+| **[13](./03-Basic-Hashing/Day13)** | Basic Hashing| **[Frequency Counting Array Hash ](./03-Basic-Hashing/Day13/FrequencyCountingArrayHash.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./03-Basic-Hashing/Day13/FrequencyCountingArrayHash.md) |
+| **[13](./03-Basic-Hashing/Day13)** | Basic Hashing| **[Frequency Counting Unordered Map ](./03-Basic-Hashing/Day13/frequencyCountingUnorderedMap.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 README](./03-Basic-Hashing/Day13/frequencyCountingUnorderedMap.md) |
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
 - **Compiler**: `g++` 
