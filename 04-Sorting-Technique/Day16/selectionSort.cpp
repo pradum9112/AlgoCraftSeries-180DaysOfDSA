@@ -6,7 +6,7 @@ class Solution {
 public:
     vector<int> selectionSort(vector<int>& nums) {
        int n = nums.size();
-       for(int i=0; i<n; i++){
+       for(int i=0; i<n; i++){ 
         int mi = i;
           for(int j = i+1; j<n; j++){
             if(nums[j]<nums[mi]) mi=j;
