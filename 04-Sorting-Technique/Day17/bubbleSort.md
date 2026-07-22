@@ -394,31 +394,6 @@ Without this optimization,
 
 Bubble Sort would still perform unnecessary passes.
 
----
-
-# ⚠️ Small Improvement in Your Code
-
-Move
-
-```cpp
-swapped = false;
-```
-
-**inside the outer loop**, otherwise once it becomes `true` in the first pass, it never becomes `false` again.
-
-Correct structure:
-
-```cpp
-for(int i=0; i<n; i++){
-
-    swapped = false;
-
-    ...
-
-    if(!swapped)
-        break;
-}
-```
 
 ---
 
