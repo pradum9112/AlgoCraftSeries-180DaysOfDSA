@@ -49,6 +49,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day18](./04-Sorting-Technique/Day18)** | Sorting| **[Insertion Sort](./04-Sorting-Technique/Day18/insertionSort.cpp)**|![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square)| [📘 Insertion Sort  README](./04-Sorting-Technique/Day18/insertionSort.md) |
 | **[Day19](./04-Sorting-Technique/Day19)** | Sorting | **[Merge Sort](./04-Sorting-Technique/Day19/mergeSort.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Merge Sort README](./04-Sorting-Technique/Day19/mergeSort.md) |
 | **[Day20](./04-Sorting-Technique/Day20)** | Sorting | **[Recursive Bubble Sort](./04-Sorting-Technique/Day20/recursiveBubbleSort.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Recursive Bubble Sort README](./04-Sorting-Technique/Day20/recursiveBubbleSort.md) |
+| **[Day21](./04-Sorting-Technique/Day21)** | Sorting | **[Recursive Insertion Sort](./04-Sorting-Technique/Day21/recursiveInsertionSort.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Recursive Insertion Sort README](./04-Sorting-Technique/Day21/recursiveInsertionSort.md) |
 
 
 
