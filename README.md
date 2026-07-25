@@ -11,6 +11,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 
 ---
 
+
 ## 🗺️ The 180-Day Roadmap
 
 | Phase | Topics Coverage | Status |
@@ -50,6 +51,9 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day19](./04-Sorting-Technique/Day19)** | Sorting | **[Merge Sort](./04-Sorting-Technique/Day19/mergeSort.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Merge Sort README](./04-Sorting-Technique/Day19/mergeSort.md) |
 | **[Day20](./04-Sorting-Technique/Day20)** | Sorting | **[Recursive Bubble Sort](./04-Sorting-Technique/Day20/recursiveBubbleSort.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Recursive Bubble Sort README](./04-Sorting-Technique/Day20/recursiveBubbleSort.md) |
 | **[Day21](./04-Sorting-Technique/Day21)** | Sorting | **[Recursive Insertion Sort](./04-Sorting-Technique/Day21/recursiveInsertionSort.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Recursive Insertion Sort README](./04-Sorting-Technique/Day21/recursiveInsertionSort.md) |
+| **[Day22](./04-Sorting-Technique/Day22)** | Sorting | **[Recursive Quick Sort](./04-Sorting-Technique/Day22/quickSort.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Recursive Quick Sort README](./04-Sorting-Technique/Day22/quickSort.md) |
+| **[Day23](./05-Arrays/Day23)** | Arrays | **[Largest Element](./05-Arrays/Day23/largestElement.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Largest Element README](./05-Arrays/Day23/largestElement.md) |
+
 
 
 
