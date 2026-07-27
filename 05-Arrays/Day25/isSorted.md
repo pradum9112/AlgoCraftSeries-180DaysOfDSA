@@ -1,70 +1,301 @@
-# Day 25 - Check if Array is Sorted
+# Check if an Array is Sorted
 
-## Problem
-Given an integer array `nums`, determine whether the array is sorted in non-decreasing order.
+## 📝 Problem Statement
 
-### Example
-Input:
-nums = [1, 2, 2, 4, 5]
+Given an integer array `nums`, check whether the array is sorted in **non-decreasing order**.
 
-Output:
+Return:
+
+- `true` if the array is sorted.
+- `false` otherwise.
+
+A non-decreasing array means every element is **greater than or equal to** its previous element.
+
+---
+
+## 💡 Approach
+
+The idea is very simple.
+
+We compare every element with its next element.
+
+If at any position,
+
+```
+nums[i] > nums[i + 1]
+```
+
+then the array is **not sorted**, so we immediately return `false`.
+
+If we complete the entire traversal without finding such a pair, the array is sorted and we return `true`.
+
+This solution requires only one traversal of the array.
+
+---
+
+## 🔍 Dry Run
+
+### Input
+
+```
+nums = [1, 2, 3, 4, 5]
+```
+
+Loop runs from
+
+```
+i = 0
+```
+
+to
+
+```
+i = n-2
+```
+
+because we compare with `i+1`.
+
+---
+
+### i = 0
+
+Compare
+
+```
+nums[0] = 1
+nums[1] = 2
+```
+
+Check
+
+```
+1 > 2 ?
+```
+
+No.
+
+Move ahead.
+
+---
+
+### i = 1
+
+Compare
+
+```
+nums[1] = 2
+nums[2] = 3
+```
+
+Check
+
+```
+2 > 3 ?
+```
+
+No.
+
+Move ahead.
+
+---
+
+### i = 2
+
+Compare
+
+```
+nums[2] = 3
+nums[3] = 4
+```
+
+Check
+
+```
+3 > 4 ?
+```
+
+No.
+
+Move ahead.
+
+---
+
+### i = 3
+
+Compare
+
+```
+nums[3] = 4
+nums[4] = 5
+```
+
+Check
+
+```
+4 > 5 ?
+```
+
+No.
+
+Loop finishes.
+
+---
+
+## ✅ Final Answer
+
+```
 true
+```
+
+The array is sorted.
 
 ---
 
-## Dry Run
+# Another Dry Run
 
-Input:
-nums = [1, 2, 2, 4, 5]
+### Input
 
-| i | nums[i] | nums[i+1] | Comparison | Result |
-|---|---------|-----------|------------|--------|
-| 0 | 1 | 2 | 1 <= 2 | Continue |
-| 1 | 2 | 2 | 2 <= 2 | Continue |
-| 2 | 2 | 4 | 2 <= 4 | Continue |
-| 3 | 4 | 5 | 4 <= 5 | Continue |
+```
+nums = [2, 4, 7, 5, 8]
+```
 
-No element is greater than its next element.
+Initially
 
-**Answer = true**
+```
+i = 0
+```
 
 ---
 
-### Dry Run (Unsorted Case)
+### i = 0
 
-Input:
-nums = [1, 3, 2, 4, 5]
+```
+2 > 4 ?
+```
 
-| i | nums[i] | nums[i+1] | Comparison | Result |
-|---|---------|-----------|------------|--------|
-| 0 | 1 | 3 | 1 <= 3 | Continue |
-| 1 | 3 | 2 | 3 > 2 | Return false |
-
-The array is not sorted.
+No.
 
 ---
 
-## Approach
+### i = 1
 
-- Traverse the array from left to right.
-- Compare each element with its next element.
-- If `nums[i] > nums[i + 1]`, return `false`.
-- If the loop completes, return `true`.
+```
+4 > 7 ?
+```
 
----
-
-## Time Complexity
-
-- **O(n)**
-
-## Space Complexity
-
-- **O(1)**
+No.
 
 ---
 
-## What I Learned
+### i = 2
 
-- How to check whether an array is sorted using a single traversal.
-- Early termination improves efficiency by stopping as soon as an unsorted pair is found.
-- Difference between **strictly increasing** and **non-decreasing** arrays.
+Compare
+
+```
+7
+5
+```
+
+Check
+
+```
+7 > 5 ?
+```
+
+Yes.
+
+Immediately return
+
+```
+false
+```
+
+No need to check the remaining elements.
+
+---
+
+## ⚠️ Edge Cases
+
+### Case 1
+
+```
+[5]
+```
+
+Output
+
+```
+true
+```
+
+A single element is always sorted.
+
+---
+
+### Case 2
+
+```
+[3,3,3]
+```
+
+Output
+
+```
+true
+```
+
+Equal elements are allowed because the array is **non-decreasing**.
+
+---
+
+### Case 3
+
+```
+[9,8,7]
+```
+
+Output
+
+```
+false
+```
+
+The first comparison itself fails.
+
+---
+
+## ⏱️ Time Complexity
+
+```
+O(N)
+```
+
+We traverse the array only once.
+
+---
+
+## 💾 Space Complexity
+
+```
+O(1)
+```
+
+No extra data structure is used.
+
+---
+
+## 🎯 Why is this Optimal?
+
+- Only one traversal of the array.
+- Stops immediately when an unsorted pair is found.
+- No sorting is performed.
+- Constant extra memory.
+
+---
+
+## 📚 Key Learning
+
+- Compare every element with its next element.
+- If one pair violates the sorted order, the entire array becomes unsorted.
+- Early return improves performance in many cases.
+- Always loop till `n - 2` because we compare `i` with `i + 1`.
