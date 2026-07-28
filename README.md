@@ -55,7 +55,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day23](./05-Arrays/Day23)** | Arrays | **[Largest Element](./05-Arrays/Day23/largestElement.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Largest Element README](./05-Arrays/Day23/largestElement.md) |
 | **[Day24](./05-Arrays/Day24)** | Arrays | **[Second Largest Element](./05-Arrays/Day24/secondMax.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Second Largest Element README](./05-Arrays/Day24/secondMax.md) |
 | **[Day25](./05-Arrays/Day25)** | Arrays | **[Check Array is  Sorted](./05-Arrays/Day25/isSorted.cpp)** ,**[Remove Duplicates from array](./05-Arrays/Day25/removeDuplicates.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |[📘 Is Sorted README](./05-Arrays/Day25/isSorted.md), [📘 Remove Duplicates README](./05-Arrays/Day25/removeDuplicates.md) |
-
+| **[Day26](./05-Arrays/Day26)** | Arrays | **[Remove Duplicates from Sorted Array II](./05-Arrays/Day26/removeDuplicatesAtMostTwice.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Remove Duplicates II README](./05-Arrays/Day26/removeDuplicatesAtMostTwice.md) |
 
 
 ## 🛠️ Tech Stack & Tools Used
