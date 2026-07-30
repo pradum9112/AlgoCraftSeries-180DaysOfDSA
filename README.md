@@ -57,6 +57,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day25](./05-Arrays/Day25)** | Arrays | **[Check Array is  Sorted](./05-Arrays/Day25/isSorted.cpp)** ,**[Remove Duplicates from array](./05-Arrays/Day25/removeDuplicates.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |[📘 Is Sorted README](./05-Arrays/Day25/isSorted.md), [📘 Remove Duplicates README](./05-Arrays/Day25/removeDuplicates.md) |
 | **[Day26](./05-Arrays/Day26)** | Arrays | **[Remove Duplicates from Sorted Array II](./05-Arrays/Day26/removeDuplicatesAtMostTwice.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Remove Duplicates II README](./05-Arrays/Day26/removeDuplicatesAtMostTwice.md) |
 | **[Day27](./05-Arrays/Day27)** | Arrays | **[Rotate Array by One (Left Rotation)](./05-Arrays/Day27/rotateArrayByOne.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Rotate Array by One README](./05-Arrays/Day27/rotateArrayByOne.md) |
+| **[Day28](./05-Arrays/Day28)** | Arrays | **[Rotate Array by K (Brute Force)](./05-Arrays/Day28/rotateArrayByKBruteForce.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rotate Array by K README](./05-Arrays/Day28/rotateArrayByKBruteForce.md) |
 
 
 ## 🛠️ Tech Stack & Tools Used
