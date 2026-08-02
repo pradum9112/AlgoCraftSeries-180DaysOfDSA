@@ -59,6 +59,8 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day27](./05-Arrays/Day27)** | Arrays | **[Rotate Array by One (Left Rotation)](./05-Arrays/Day27/rotateArrayByOne.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Rotate Array by One README](./05-Arrays/Day27/rotateArrayByOne.md) |
 | **[Day28](./05-Arrays/Day28)** | Arrays | **[Rotate Array by K (Brute Force)](./05-Arrays/Day28/rotateArrayByKBruteForce.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rotate Array by K README](./05-Arrays/Day28/rotateArrayByKBruteForce.md) |
 | **[Day29](./05-Arrays/Day29)** | Arrays | **[Rotate Array by K (Reversal Algorithm)](./05-Arrays/Day29/rotateArrayByKOptimal.cpp)** • **[Move Zeroes to End](./05-Arrays/Day29/moveZeroToEnd.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rotate Array by K (Optimal) README](./05-Arrays/Day29/rotateArrayByKOptimal.md) • [📘 Move Zeroes README](./05-Arrays/Day29/moveZeroToEnd.md) |
+| **[Day30](./05-Arrays/Day30)** | Arrays | **[Linear Search](./05-Arrays/Day30/linearSearch.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Linear Search README](./05-Arrays/Day30/linearSearch.md) |
+| **[Day31](./05-Arrays/Day31)** | Arrays | **[Union of Two Sorted Arrays (Two Pointer)](./05-Arrays/Day31/unionOfSortedArrays.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Union of Two Sorted Arrays README](./05-Arrays/Day31/unionOfSortedArrays.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
