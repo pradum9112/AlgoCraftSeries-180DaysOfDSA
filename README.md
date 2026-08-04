@@ -62,6 +62,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day30](./05-Arrays/Day30)** | Arrays | **[Linear Search](./05-Arrays/Day30/linearSearch.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Linear Search README](./05-Arrays/Day30/linearSearch.md) |
 | **[Day31](./05-Arrays/Day31)** | Arrays | **[Union of Two Sorted Arrays (Two Pointer)](./05-Arrays/Day31/unionOfSortedArrays.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Union of Two Sorted Arrays README](./05-Arrays/Day31/unionOfSortedArrays.md) |
 | **[Day32](./05-Arrays/Day32)** | Arrays | **[Maximum Consecutive Ones](./05-Arrays/Day32/maxConsecutiveOnes.cpp)** • **[Single Number (HashMap)](./05-Arrays/Day32/singleNumberHashMap.cpp)** • **[Single Number (XOR)](./05-Arrays/Day32/singleNumberXOR.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Maximum Consecutive Ones README](./05-Arrays/Day32/maxConsecutiveOnes.md) • [📘 Single Number (HashMap) README](./05-Arrays/Day32/singleNumberHashMap.md) • [📘 Single Number (XOR) README](./05-Arrays/Day32/singleNumberXOR.md) |
+| **[Day33](./05-Arrays/Day33)** | Arrays | **[Longest Subarray with Sum K (Prefix Sum + HashMap)](./05-Arrays/Day33/longestSubarrayPrefixSum.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Longest Subarray with Sum K README](./05-Arrays/Day33/longestSubarrayPrefixSum.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
@@ -85,23 +86,10 @@ AlgoCraftSeries-180DaysOfDSA/
 │   │   ├── countAllDigitsOfNumber.cpp
 │   │   ├── reverseNumber.cpp
 │   │   └── README.md
-│   │
-│   ├── Day03/
-│   │   ├── Palindrome.cpp
-│   │   └── README.md
-│   │
-│   ├── Day04/
-│   │   ├── GCD.cpp
-│   │   └── README.md
-│   │
-│   ├── Day05/
-│   │   ├── isArmstrong.cpp
-│   │   └── README.md
-│   │
-│   └── Day06/
-│       ├── SquareRoot.cpp
-│       ├── Divisors.cpp
-│       └── README.md
+│   .
+│   .
+│   .
+│   
 │
 ├── .gitignore
 └── README.md
