@@ -1,4 +1,4 @@
-# 📘 Day 33 - Longest Subarray with Sum K (Prefix Sum + HashMap)
+# 📘 Day 34 - Longest Subarray with Sum K (Prefix Sum + HashMap)
 
 ## Problem Statement
 

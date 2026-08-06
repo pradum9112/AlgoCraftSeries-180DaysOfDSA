@@ -33,10 +33,9 @@ public:
                 max_len = max(max_len, len);
             }
 
-            // Case 3
-            if (prefix_map.find(current_sum) == prefix_map.end()) {
+                //ye first occurrence rule follow nahi karega... 
                 prefix_map[current_sum] = i;
-            }
+           
         }
 
         return max_len;

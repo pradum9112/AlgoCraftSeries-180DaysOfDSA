@@ -1,4 +1,4 @@
-# 📘 Day 34 - Longest Subarray with Sum K (Positive Numbers)
+# 📘 Day 35 - Longest Subarray with Sum K (Positive Numbers)
 
 ## Problem Statement
 
