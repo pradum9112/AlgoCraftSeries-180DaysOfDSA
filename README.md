@@ -65,7 +65,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day33](./05-Arrays/Day33)** | Arrays | **[Longest Subarray with Sum K (Brute Force)](./05-Arrays/Day33/longestSubarrayBruteForce.cpp)**•**[Longest Subarray with Sum K - (Prefix Sum + HashMap - Positive Numbers)](./05-Arrays/Day33/longestSubarrayPositivePrefixSum.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Brute Force README](./05-Arrays/Day33/longestSubarrayBruteForce.md)•[📘 Longest Subarray with Sum K README](./05-Arrays/Day33/longestSubarrayPositivePrefixSum.md) |
 | **[Day34](./05-Arrays/Day34)** | Arrays |  **[Longest Subarray with Sum K (Prefix Sum + HashMap)](./05-Arrays/Day34/longestSubarrayPrefixSum.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |  [📘Longest Subarray with Sum K README](./05-Arrays/Day34/longestSubarrayPrefixSum.md) |
 | **[Day35](./05-Arrays/Day35)** | Arrays |  **[Longest Subarray with Sum K (Sliding Window - Positive Numbers)](./05-Arrays/Day35/longestSubarrayPositiveSlidingWindow.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |  [📘 Sliding Window README](./05-Arrays/Day35/longestSubarrayPositiveSlidingWindow.md) |
-
+| **[Day36](./05-Arrays/Day36)** | Arrays | **[Two Sum (Brute Force)](./05-Arrays/Day36/twoSumBruteForce.cpp)** • **[Two Sum (HashMap)](./05-Arrays/Day36/twoSumHashMap.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 HashMap README](./05-Arrays/Day36/twoSumHashMap.md) |
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
 - **Compiler**: `g++` 
