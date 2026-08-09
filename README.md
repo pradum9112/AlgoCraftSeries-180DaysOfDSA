@@ -67,6 +67,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day35](./05-Arrays/Day35)** | Arrays |  **[Longest Subarray with Sum K (Sliding Window - Positive Numbers)](./05-Arrays/Day35/longestSubarrayPositiveSlidingWindow.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |  [📘 Sliding Window README](./05-Arrays/Day35/longestSubarrayPositiveSlidingWindow.md) |
 | **[Day36](./05-Arrays/Day36)** | Arrays | **[Two Sum (Brute Force)](./05-Arrays/Day36/twoSumBruteForce.cpp)** • **[Two Sum (HashMap)](./05-Arrays/Day36/twoSumHashMap.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 HashMap README](./05-Arrays/Day36/twoSumHashMap.md) |
 | **[Day37](./05-Arrays/Day37)** | Arrays | **[Sort 0s, 1s and 2s - Dutch National Flag](./05-Arrays/Day37/sortZeroOneTwo.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Sort 0s, 1s and 2s README](./05-Arrays/Day37/sortZeroOneTwo.md) |
+| **[Day38](./05-Arrays/Day38)** | Arrays | **[Majority Element (Brute Force)](./05-Arrays/Day38/majorityElementBruteForce.cpp)** • **[Majority Element (HashMap)](./05-Arrays/Day38/majorityElementHashMap.cpp)** • **[Majority Element (Boyer-Moore)](./05-Arrays/Day38/majorityElementBoyerMoore.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Boyer-Moore Voting Algorithm README](./05-Arrays/Day38/majorityElementBoyerMoore.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
