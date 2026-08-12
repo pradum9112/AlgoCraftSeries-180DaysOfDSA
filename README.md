@@ -70,6 +70,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day38](./05-Arrays/Day38)** | Arrays | **[Majority Element (Brute Force)](./05-Arrays/Day38/majorityElementBruteForce.cpp)** • **[Majority Element (HashMap)](./05-Arrays/Day38/majorityElementHashMap.cpp)** • **[Majority Element (Boyer-Moore)](./05-Arrays/Day38/majorityElementBoyerMoore.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Boyer-Moore Voting Algorithm README](./05-Arrays/Day38/majorityElementBoyerMoore.md) |
 | **[Day39](./05-Arrays/Day39)** | Arrays | **[Maximum Subarray Sum (Brute Force)](./05-Arrays/Day39/maxSubArrayBruteForce.cpp)** • **[Maximum Subarray Sum (Kadane's Algorithm)](./05-Arrays/Day39/maxSubArrayKadane.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Kadane's Algorithm README](./05-Arrays/Day39/maxSubArrayKadane.md) |
 | **[Day40](./05-Arrays/Day40)** | Arrays | **[Best Time to Buy and Sell Stock](./05-Arrays/Day40/stockBuySell.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Stock Buy & Sell README](./05-Arrays/Day40/stockBuySell.md) |
+| **[Day41](./05-Arrays/Day41)** | Arrays | **[Rearrange Array Elements by Sign](./05-Arrays/Day41/rearrangeArray.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rearrange Array by Sign README](./05-Arrays/Day41/rearrangeArray.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
