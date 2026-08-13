@@ -17,7 +17,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | Phase | Topics Coverage | Status |
 | :--- | :--- | :--- |
 | **Phase 1** | Mathematics, Bit Manipulation, Loops & Pattern Problems | 🔄 In Progress |
-| **Phase 2** | Arrays (1D/2D), Multi-Pointers, Slidings Windows & Sorting | ⏳ Upcoming |
+| **Phase 2** | Arrays (1D/2D), Multi-Pointers, Slidings Windows & Sorting | 🔄 In Progress |
 | **Phase 3** | Recursion, Backtracking & String Manipulation | ⏳ Upcoming |
 | **Phase 4** | Linked Lists, Stacks, Queues & Hashing | ⏳ Upcoming |
 | **Phase 5** | Binary Trees, BSTs & Heaps / Priority Queues | ⏳ Upcoming |
@@ -71,6 +71,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day39](./05-Arrays/Day39)** | Arrays | **[Maximum Subarray Sum (Brute Force)](./05-Arrays/Day39/maxSubArrayBruteForce.cpp)** • **[Maximum Subarray Sum (Kadane's Algorithm)](./05-Arrays/Day39/maxSubArrayKadane.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Kadane's Algorithm README](./05-Arrays/Day39/maxSubArrayKadane.md) |
 | **[Day40](./05-Arrays/Day40)** | Arrays | **[Best Time to Buy and Sell Stock](./05-Arrays/Day40/stockBuySell.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Stock Buy & Sell README](./05-Arrays/Day40/stockBuySell.md) |
 | **[Day41](./05-Arrays/Day41)** | Arrays | **[Rearrange Array Elements by Sign](./05-Arrays/Day41/rearrangeArray.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rearrange Array by Sign README](./05-Arrays/Day41/rearrangeArray.md) |
+| **[Day42](./05-Arrays/Day42)** | Arrays | **[Next Permutation](./05-Arrays/Day42/nextPermutation.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Next Permutation README](./05-Arrays/Day42/nextPermutation.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
