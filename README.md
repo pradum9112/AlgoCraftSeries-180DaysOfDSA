@@ -72,6 +72,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day40](./05-Arrays/Day40)** | Arrays | **[Best Time to Buy and Sell Stock](./05-Arrays/Day40/stockBuySell.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Stock Buy & Sell README](./05-Arrays/Day40/stockBuySell.md) |
 | **[Day41](./05-Arrays/Day41)** | Arrays | **[Rearrange Array Elements by Sign](./05-Arrays/Day41/rearrangeArray.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rearrange Array by Sign README](./05-Arrays/Day41/rearrangeArray.md) |
 | **[Day42](./05-Arrays/Day42)** | Arrays | **[Next Permutation](./05-Arrays/Day42/nextPermutation.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Next Permutation README](./05-Arrays/Day42/nextPermutation.md) |
+| **[Day43](./05-Arrays/Day43)** | Arrays | **[Leaders in an Array](./05-Arrays/Day43/leaders.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Leaders in an Array README](./05-Arrays/Day43/leaders.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
