@@ -73,6 +73,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day41](./05-Arrays/Day41)** | Arrays | **[Rearrange Array Elements by Sign](./05-Arrays/Day41/rearrangeArray.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rearrange Array by Sign README](./05-Arrays/Day41/rearrangeArray.md) |
 | **[Day42](./05-Arrays/Day42)** | Arrays | **[Next Permutation](./05-Arrays/Day42/nextPermutation.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Next Permutation README](./05-Arrays/Day42/nextPermutation.md) |
 | **[Day43](./05-Arrays/Day43)** | Arrays | **[Leaders in an Array](./05-Arrays/Day43/leaders.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Leaders in an Array README](./05-Arrays/Day43/leaders.md) |
+| **[Day44](./05-Arrays/Day44)** | Arrays | **[Longest Consecutive Sequence (Sorting)](./05-Arrays/Day44/longestConsecutiveSorting.cpp)** • **[Longest Consecutive Sequence (HashSet - Optimal)](./05-Arrays/Day44/longestConsecutiveHashSet.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Longest Consecutive Sequence README](./05-Arrays/Day44/longestConsecutive.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
