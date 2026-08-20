@@ -78,6 +78,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day46](./05-Arrays/Day46)** | Arrays | **[Rotate Matrix 90° Clockwise (Extra Matrix)](./05-Arrays/Day46/rotateMatrixBruteForce.cpp)** • **[Rotate Matrix 90° Clockwise (Transpose + Reverse - Optimal)](./05-Arrays/Day46/rotateMatrixOptimal.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Rotate Matrix README](./05-Arrays/Day46/rotateMatrix.md) |
 | **[Day47](./05-Arrays/Day47)** | Arrays | **[Spiral Matrix](./05-Arrays/Day47/spiralMatrix.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Spiral Matrix README](./05-Arrays/Day47/spiralMatrix.md) |
 | **[Day48](./05-Arrays/Day48)** | Arrays | **[Subarray Sum Equals K (Brute Force)](./05-Arrays/Day48/subarraySumBruteForce.cpp)** • **[Subarray Sum Equals K (Running Sum)](./05-Arrays/Day48/subarraySumBetter.cpp)** • **[Subarray Sum Equals K (Prefix Sum + HashMap)](./05-Arrays/Day48/subarraySumPrefixHashMap.cpp)** | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | [📘 Subarray Sum Equals K README](./05-Arrays/Day48/subarraySum.md) |
+| **[Day49](./05-Arrays/Day49)** | Arrays | **[Pascal Triangle I - Find Element](./05-Arrays/Day49/pascalTriangleI.cpp)** | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | [📘 Pascal Triangle I README](./05-Arrays/Day49/pascalTriangleI.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
