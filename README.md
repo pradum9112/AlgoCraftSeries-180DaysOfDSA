@@ -93,6 +93,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day61](./05-Arrays/Day61)** | Arrays | **[Search in Sorted Array - Linear Search](./05-Arrays/Day61/linearSearch.cpp)** • **[Search in Sorted Array - Binary Search](./05-Arrays/Day61/binarySearch.cpp)** | ![Easy](https://img.shields.io/badge/Easy-green?style=flat-square) | [📘 Search in Sorted Array README](./05-Arrays/Day61/searchInSortedArray.md) |
 | **[Day62](./05-Arrays/Day62)** | Arrays | **[Lower Bound - Linear Search](./05-Arrays/Day62/lowerBound.cpp)** • **[Lower Bound - Binary Search](./05-Arrays/Day62/lowerBoundBinarySearch.cpp)** | ![Easy](https://img.shields.io/badge/Easy-green?style=flat-square) | [📘 Lower Bound README](./05-Arrays/Day62/lowerBound.md) |
 | **[Day63](./05-Arrays/Day63)** | Arrays | **[Upper Bound - Linear Search](./05-Arrays/Day63/upperBound.cpp)** • **[Upper Bound - Binary Search](./05-Arrays/Day63/upperBoundBinarySearch.cpp)** | ![Easy](https://img.shields.io/badge/Easy-green?style=flat-square) | [📘 Upper Bound README](./05-Arrays/Day63/upperBound.md) |
+| **[Day64](./05-Arrays/Day64)** | Arrays | **[Search Insert Position - Linear Search](./05-Arrays/Day64/searchInsert.cpp)** • **[Search Insert Position - Binary Search](./05-Arrays/Day64/searchInsertBinarySearch.cpp)** | ![Easy](https://img.shields.io/badge/Easy-green?style=flat-square) | [📘 Search Insert Position README](./05-Arrays/Day64/searchInsert.md) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
