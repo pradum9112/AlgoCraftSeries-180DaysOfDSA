@@ -95,6 +95,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **Day63** | Arrays | [Upper Bound (Linear Search)](./05-Arrays/Day63/upperBound.cpp) <br> [Upper Bound (Binary Search)](./05-Arrays/Day63/upperBoundBinarySearch.cpp) | ⭐ | [📘 Upper Bound README](./05-Arrays/Day63/upperBound.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **Day64** | Arrays | [Search Insert Position (Linear)](./05-Arrays/Day64/searchInsert.cpp) <br> [Search Insert Position (Binary)](./05-Arrays/Day64/searchInsertBinarySearch.cpp) | ⭐ | [📘 Search Insert README](./05-Arrays/Day64/searchInsert.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **[Day65](./05-Arrays/Day65)** | Arrays | **[Floor & Ceil - Linear Search](./05-Arrays/Day65/floorAndCeil.cpp)** • **[Floor & Ceil - Binary Search](./05-Arrays/Day65/floorAndCeilBinarySearch.cpp)** | ⭐ | [📘 Floor & Ceil README](./05-Arrays/Day65/floorAndCeil.md) |![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
+| **[Day66](./05-Arrays/Day66)** | Arrays | **[Find First & Last Position - Linear Search](./05-Arrays/Day66/searchRange.cpp)** • **[Find First & Last Position - Binary Search](./05-Arrays/Day66/searchRangeBinarySearch.cpp)** | ⭐ | [📘 First & Last Position README](./05-Arrays/Day66/searchRange.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
