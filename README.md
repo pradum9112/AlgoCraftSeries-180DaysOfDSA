@@ -102,11 +102,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day70](./06-Binary-Search-1D/Day70)** | Binary Search 1D | **[Find Minimum - Binary Search](./06-Binary-Search-1D/Day70/findMinimum.cpp)** | ⭐ | [📘 Find Minimum README](./06-Binary-Search-1D/Day70/findMinimum.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **[Day71](./06-Binary-Search-1D/Day71)** | Binary Search 1D | **[Find K Rotation - Linear Search](./06-Binary-Search-1D/Day71/findKRotationBruteForce.cpp)** • **[Find K Rotation - Breakpoint](./06-Binary-Search-1D/Day71/findKRotationBetter.cpp)** • **[Find K Rotation - Binary Search](./06-Binary-Search-1D/Day71/findKRotationOptimal.cpp)** | ⭐ | [📘 Find K Rotation README](./06-Binary-Search-1D/Day71/findKRotation.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **[Day72](./06-Binary-Search-1D/Day72)** | Binary Search 1D | **[Single Non-Duplicate - HashMap](./06-Binary-Search-1D/Day72/singleNonDuplicateBruteForce.cpp)** • **[Single Non-Duplicate - XOR](./06-Binary-Search-1D/Day72/singleNonDuplicateXOR.cpp)** • **[Single Non-Duplicate - Binary Search](./06-Binary-Search-1D/Day72/singleNonDuplicateBinarySearch.cpp)** | ⭐ | [📘 Single Non-Duplicate README](./06-Binary-Search-1D/Day72/singleNonDuplicate.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
-
-
-
-
-
+| **[Day73](./06-Binary-Search-1D/Day73)** | Binary Search 1D | **[Find Peak Element - Linear Search](./06-Binary-Search-1D/Day73/findPeakElementBruteForce.cpp)** • **[Find Peak Element - Binary Search](./06-Binary-Search-1D/Day73/findPeakElementBinarySearch.cpp)** | ⭐ | [📘 Find Peak Element README](./06-Binary-Search-1D/Day73/findPeakElement.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 
 
 

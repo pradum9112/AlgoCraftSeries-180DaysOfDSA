@@ -1,0 +1,67 @@
+findPeakElementBinarySearch#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int findPeakElement(vector<int>& arr) {
+        int n = arr.size();
+
+        // Single element
+        if (n == 1)
+            return 0;
+
+        // Check first element
+        if (arr[0] > arr[1])
+            return 0;
+
+        // Check last element
+        if (arr[n - 1] > arr[n - 2])
+            return n - 1;
+
+        int low = 1;
+        int high = n - 2;
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            // Found a peak
+            if (arr[mid] > arr[mid - 1] &&
+                arr[mid] > arr[mid + 1]) {
+                return mid;
+            }
+
+            // We are on increasing slope
+            if (arr[mid] < arr[mid + 1]) {
+                low = mid + 1;
+            }
+
+            // We are on decreasing slope
+            else {
+                high = mid - 1;
+            }
+        }
+
+        return -1;
+    }
+};
+
+int main() {
+    int n;
+    cin >> n;
+
+    vector<int> arr(n);
+
+    for (int i = 0; i < n; i++) {
+        cin >> arr[i];
+    }
+
+    Solution obj;
+
+    int ans = obj.findPeakElement(arr);
+
+    cout << "Peak Element Index: " << ans << endl;
+    cout << "Peak Element: " << arr[ans] << endl;
+
+    return 0;
+}
