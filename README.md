@@ -107,7 +107,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day75](./06-Binary-Search-1D/Day75)** | Binary Search 1D | **[Nth Root - Brute Force](./06-Binary-Search-1D/Day75/nthRootBruteForce.cpp)** • **[Nth Root - Binary Search](./06-Binary-Search-1D/Day75/nthRootBinarySearch.cpp)** | ⭐ | [📘 Nth Root README](./06-Binary-Search-1D/Day75/nthRoot.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 | **[Day76](./06-Binary-Search-1D/Day76)** | Binary Search 1D | **[Smallest Divisor - Brute Force](./06-Binary-Search-1D/Day76/smallestDivisorBruteForce.cpp)** • **[Smallest Divisor - Binary Search](./06-Binary-Search-1D/Day76/smallestDivisorBinarySearch.cpp)** | ⭐ | [📘 Smallest Divisor README](./06-Binary-Search-1D/Day76/smallestDivisor.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 | **[Day77](./06-Binary-Search-1D/Day77)** | Binary Search 1D | **[Minimum Rate to Eat Bananas - Brute Force](./06-Binary-Search-1D/Day77/minimumRateToEatBananasBruteForce.cpp)** • **[Minimum Rate to Eat Bananas - Binary Search](./06-Binary-Search-1D/Day77/minimumRateToEatBananasOptimal.cpp)** | ⭐ | [📘 Minimum Rate to Eat Bananas README](./06-Binary-Search-1D/Day77/minimumRateToEatBananas.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
-
+| **[Day78](./06-Binary-Search-1D/Day78)** | Binary Search 1D | **[Rose Garden - Brute Force](./06-Binary-Search-1D/Day78/roseGarden.cpp)** • **[Rose Garden - Binary Search](./06-Binary-Search-1D/Day78/roseGardenOptimal.cpp)** | ⭐ | [📘 Rose Garden README](./06-Binary-Search-1D/Day78/roseGarden.md) |![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) |
 
 
 
