@@ -120,7 +120,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day88](./06-Binary-Search-1D/Day88)** | Binary Search 1D | **[Largest Subarray Sum Minimized - Binary Search](./06-Binary-Search-1D/Day88/largestSubarraySumMinimized.cpp)** | ⭐ | [📘 Largest Subarray Sum Minimized README](./06-Binary-Search-1D/Day88/largestSubarraySumMinimized.md) | ![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) |
 | **[Day89](./07-2D-Arrays/Day89)** | 2D Arrays | **[Row With Maximum 1s - Brute Force](./07-2D-Arrays/Day89/rowWithMax1sBruteForce.cpp)** • **[Row With Maximum 1s - Binary Search](./07-2D-Arrays/Day89/rowWithMax1sBinarySearch.cpp)** | ⭐ | [📘 Row With Maximum 1s README](./07-2D-Arrays/Day89/rowWithMax1s.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 | **[Day90](./07-2D-Arrays/Day90)** | 2D Arrays | **[Search Matrix - Brute Force](./07-2D-Arrays/Day90/searchMatrixBruteForce.cpp)** • **[Search Matrix - Binary Search](./07-2D-Arrays/Day90/searchMatrixBinarySearch.cpp)** | ⭐ | [📘 Search Matrix README](./07-2D-Arrays/Day90/searchMatrix.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
-
+| **[Day91](./07-2D-Arrays/Day91)** | 2D Arrays | **[Search Matrix - Brute Force](./07-2D-Arrays/Day91/searchMatrixBruteForce.cpp)** • **[Search Matrix - Binary Search](./07-2D-Arrays/Day91/searchMatrixBinarySearch.cpp)** | ⭐ | [📘 Search Matrix README](./07-2D-Arrays/Day91/searchMatrix.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 
 
 
