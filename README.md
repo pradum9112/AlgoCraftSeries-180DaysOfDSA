@@ -126,7 +126,7 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day94](./08-Strings/Day94)** | Strings | **[Remove Outermost Parentheses - Primitive](./08-Strings/Day94/removeOuterParenthesesPrimitive.cpp)** • **[Remove Outermost Parentheses - Stack](./08-Strings/Day94/removeOuterParenthesesStack.cpp)** • **[Remove Outermost Parentheses - Counter](./08-Strings/Day94/removeOuterParenthesesCounter.cpp)** | ⭐ | [📘 Remove Outermost Parentheses README](./08-Strings/Day94/removeOuterParentheses.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **[Day95](./08-Strings/Day95)** | Strings | **[Maximum Nesting Depth of Parentheses](./08-Strings/Day95/maxDepth.cpp)** | ⭐ | [📘 Maximum Nesting Depth README](./08-Strings/Day95/maxDepth.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **[Day96](./08-Strings/Day96)** | Strings | **[Roman to Integer](./08-Strings/Day96/romanToInt.cpp)** | ⭐ | [📘 Roman to Integer README](./08-Strings/Day96/romanToInt.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
-
+| **[Day96](./08-Strings/Day96)** | Strings |**[String to Integer (atoi)](./08-Strings/Day96/P2/myAtoi.cpp)** | ⭐ |  [📘 String to Integer](./08-Strings/Day96/P2/myAtoi.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
