@@ -127,6 +127,8 @@ Welcome to my **180 Days of Data Structures and Algorithms (DSA)** journey! This
 | **[Day95](./08-Strings/Day95)** | Strings | **[Maximum Nesting Depth of Parentheses](./08-Strings/Day95/maxDepth.cpp)** | ⭐ | [📘 Maximum Nesting Depth README](./08-Strings/Day95/maxDepth.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **[Day96](./08-Strings/Day96)** | Strings | **[Roman to Integer](./08-Strings/Day96/romanToInt.cpp)** | ⭐ | [📘 Roman to Integer README](./08-Strings/Day96/romanToInt.md) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) |
 | **[Day96](./08-Strings/Day96)** | Strings |**[String to Integer (atoi)](./08-Strings/Day96/P2/myAtoi.cpp)** | ⭐ |  [📘 String to Integer](./08-Strings/Day96/P2/myAtoi.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
+| **[Day96](./08-Strings/Day96)** | Strings | **[Count Substrings - Brute Force](./08-Strings/Day96/countSubstringsBruteForce.cpp)** • **[Count Substrings - Prefix Bitmask](./08-Strings/Day96/countSubstringsBitmask.cpp)** | ⭐ | [📘 Count Substrings README](./08-Strings/Day96/countSubstrings.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
+| **[Day97](./08-Strings/Day97)** | Strings | **[Count Substrings - Brute Force](./08-Strings/Day97/countSubstringsBruteForce.cpp)** • **[Count Substrings - Prefix Bitmask](./08-Strings/Day97/countSubstringsBitmask.cpp)** | ⭐ | [📘 Count Substrings README](./08-Strings/Day97/countSubstrings.md) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) |
 
 ## 🛠️ Tech Stack & Tools Used
 - **Primary Language**: C++ (C++17/C++20 standard)
